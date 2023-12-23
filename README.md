@@ -1,3 +1,3 @@
 # Test
 
-Test Repo
+Test Repository
